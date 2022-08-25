@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devlinabiswas
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Data Structure
+- 🌱 Data Science and Machine Learning enthusiast
 - 💞️ I’m looking to collaborate on any contests,challages
 - 📫 How to reach me @devlinabiswas06@gmail.com
 
